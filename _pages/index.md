@@ -8,7 +8,7 @@ permalink: /
 
 # 自己紹介
 ## 上田華凛
-#### 出身：北海道![image](/GHPages_WebSite/assets/images/yagi2.png)
+#### 出身：北海道![image](/GHPages_WebSite/assets/images/yagi.png)
 #### 学部：情報学部
 #### ひとこと：大阪暑くて溶けちゃいそう
 #### 好きなものもの
