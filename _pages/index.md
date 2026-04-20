@@ -12,10 +12,10 @@ permalink: /
 #### 学部：情報学部
 #### ひとこと：大阪暑くて溶けちゃいそう
 #### 好きなものもの
-  - Eve；今度ライブ行きます！！[リンク](https://eveofficial.com/)
+  - [Eve](https://eveofficial.com/)；今度ライブ行きます！！[リンク](https://eveofficial.com/)
   - ボカロ；DECO *２７さん、wotakuさん
   - 食べ物；ぶどう
-  - ゲーム；鳴潮、原神…等々。広く浅くって感じです
+  - ゲーム；[鳴潮](https://wutheringwaves.kurogames.com/jp/main)、原神…等々。広く浅くって感じです
   - 読書；なんでも読みます！
 ######
 
