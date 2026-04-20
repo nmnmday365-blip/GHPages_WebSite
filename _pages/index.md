@@ -8,12 +8,11 @@ permalink: /
 
 # 自己紹介
 ## 上田華凛
-#### 出身：北海道
+#### 出身：北海道![image](/GHPages_WebSite/assets/images/yagi.png)
 #### 学部：情報学部
 #### ひとこと：大阪暑くて溶けちゃいそう
 #### 好きなものもの
-  - Eve；今度ライブ行きます！！![image](/GHPages_WebSite/assets/images/yagi.png)
-
+  - Eve；今度ライブ行きます！！
   - ボカロ；DECO *２７さん、wotakuさん
   - 食べ物；ぶどう
   - ゲーム；鳴潮、原神…等々。広く浅くって感じです
