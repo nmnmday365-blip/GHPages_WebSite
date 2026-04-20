@@ -12,7 +12,7 @@ permalink: /
 #### 学部：情報学部
 #### ひとこと：大阪暑くて溶けちゃいそう
 #### 好きなものもの
-  - Eve；今度ライブ行きます！！![image](/GHPages_WebSite/assets/images/logo-150.png)
+  - Eve；今度ライブ行きます！！![image](/GHPages_WebSite/assets/images1A84E965-5C18-42EA-8247-366C4D49D916.jpeg)
 
   - ボカロ；DECO *２７さん、wotakuさん
   - 食べ物；ぶどう
